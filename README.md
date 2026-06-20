@@ -60,7 +60,7 @@ SIPRESENSI/
 1. Clone repository ini.
 
 ```bash
-git clone https://github.com/username/sipresensi-cli.git
+git clone https://github.com/username/Tubes-Algoritma-Preprograman.git
 ```
 
 2. Masuk ke folder project.
